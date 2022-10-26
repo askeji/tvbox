@@ -12,6 +12,9 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
+{"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/17看球.json"},
+{"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/dj看球.json"},
+
 //{"key":"csp_SP293","name":"🌊293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_KanSJ","name":"🗺看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key":"csp_Smdyy","name":"🦄神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -50,8 +53,6 @@
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_huya","name":"🐯虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/虎牙.json"},
 {"key":"csp_xp_酷奇mv","name":"📺酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/酷奇MV.json"},
-{"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/17看球.json"},
-{"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/dj看球.json"},
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/meiju562.json"},
 {"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/美剧虫.json"},
